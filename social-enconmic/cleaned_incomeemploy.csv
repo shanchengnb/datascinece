@@ -1,0 +1,34 @@
+Borough,Income_Deprivation_Score,Income_High_Poverty_Area,Employment_Deprivation_Score,Employment_High_Poverty_Area
+City of London,0.1,0.0,0.1,0.0
+Barking and Dagenham,0.2,0.0,0.1,0.0
+Barnet,0.1,0.0,0.1,0.0
+Bexley,0.1,0.0,0.1,0.0
+Brent,0.2,0.1,0.1,0.0
+Bromley,0.1,0.0,0.1,0.0
+Camden,0.1,0.1,0.1,0.0
+Croydon,0.1,0.1,0.1,0.0
+Ealing,0.1,0.1,0.1,0.0
+Enfield,0.2,0.1,0.1,0.0
+Greenwich,0.2,0.1,0.1,0.0
+Hackney,0.2,0.2,0.1,0.0
+Hammersmith and Fulham,0.1,0.1,0.1,0.0
+Haringey,0.2,0.1,0.1,0.0
+Harrow,0.1,0.0,0.1,0.0
+Havering,0.1,0.0,0.1,0.0
+Hillingdon,0.1,0.0,0.1,0.0
+Hounslow,0.1,0.0,0.1,0.0
+Islington,0.2,0.1,0.1,0.1
+Kensington and Chelsea,0.1,0.2,0.1,0.1
+Kingston upon Thames,0.1,0.0,0.1,0.0
+Lambeth,0.2,0.0,0.1,0.0
+Lewisham,0.2,0.1,0.1,0.0
+Merton,0.1,0.0,0.1,0.0
+Newham,0.2,0.0,0.1,0.0
+Redbridge,0.1,0.0,0.1,0.0
+Richmond upon Thames,0.1,0.0,0.1,0.0
+Southwark,0.2,0.1,0.1,0.0
+Sutton,0.1,0.0,0.1,0.0
+Tower Hamlets,0.2,0.2,0.1,0.0
+Waltham Forest,0.2,0.1,0.1,0.0
+Wandsworth,0.1,0.0,0.1,0.0
+Westminster,0.1,0.1,0.1,0.1
