@@ -1,6 +1,15 @@
 # Title:
 Predicting and Explaining Road Traffic Accident Severity in Inner London Using Interpretable Machine Learning
 
+## 📁 Repository Structure Notice
+This repository contains two branches: main and master.
+
+The master branch includes two original transport-related datasets located in the /transport directory.
+
+The main branch contains the final cleaned dataset (inner_london_df.csv) and the Jupyter Notebook file (.ipynb) used for analysis. You can download and run these files directly.
+
+Additionally, in the Part 1: Coursework Submission section, the submitted files include the original datasets—collision, casualties, and geo_data—as well as the final processed file inner_london_df.csv.
+
 ## 📍 Objective
 This project investigates how road design, temporal patterns, and environmental conditions impact the severity of road traffic accidents in Inner London. The goal is to both predict and explain accident outcomes using interpretable machine learning methods.
 
