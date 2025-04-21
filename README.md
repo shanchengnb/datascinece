@@ -1,10 +1,10 @@
-Title:
+# Title:
 Predicting and Explaining Road Traffic Accident Severity in Inner London Using Interpretable Machine Learning
 
-📍 Objective
+## 📍 Objective
 This project investigates how road design, temporal patterns, and environmental conditions impact the severity of road traffic accidents in Inner London. The goal is to both predict and explain accident outcomes using interpretable machine learning methods.
 
-🧠 Methodology Summary
+## 🧠 Methodology Summary
 We employed a three-pronged approach:
 
 Descriptive & Statistical Analysis (Method 1): Explored accident severity patterns across time, road type, junction control, lighting, weather, and surface conditions. Chi-squared tests confirmed key variables significantly associated with severity (p < 0.001).
@@ -19,7 +19,7 @@ Used SHAP for model interpretability.
 
 Final soft voting ensemble (LogReg:1, RF:1, XGB:2, threshold = 0.24) prioritized recall of serious/fatal incidents.
 
-📊 Key Findings
+## 📊 Key Findings
 1️⃣ Temporal Risk Patterns Serious and fatal accidents are significantly more likely to occur between 12:00 AM and 4:00 AM, especially on weekends (notably Sundays).
 
 Driver fatigue, reduced visibility, and alcohol-related behaviors are likely contributing factors.
@@ -58,7 +58,7 @@ The final ensemble model (LogReg:1, RF:1, XGB:2, threshold = 0.24) optimized for
 
 SHAP interpretability confirmed that time, road type, junction control, and environmental conditions are key to predicting severity.
 
-🟢 Implications
+## 🟢 Implications
 The findings of this study offer actionable insights for urban planners, transport authorities, and policymakers aiming to reduce the severity of road traffic accidents in Inner London and similar urban environments. Key recommendations include:
 
 1️⃣ Temporal Risk Management Late-night enforcement: Accidents between 12 AM and 4 AM are significantly more likely to be serious or fatal. This suggests a need for increased police presence, sobriety checkpoints, and speed monitoring during these hours—especially on weekends.
@@ -93,14 +93,14 @@ Pre-emptive infrastructure upgrades in emerging risk zones.
 
 SHAP-based explainability ensures decision-makers can trace the model’s reasoning, fostering transparency and trust in AI-assisted planning tools.
 
-📁 Data Sources
+## 📁 Data Sources
 UK STATS19: Road Collisions and Casualties
 
 Inner London Boundaries (GLA / GeoJSON)
 
 Data processed to accident-level with demographic aggregation (e.g., number of casualties, average age, gender ratio)
 
-⚙️ Environment
+## ⚙️ Environment
 Platform: Anaconda (Python 3.9)
 
 Runtime: ~15 min
